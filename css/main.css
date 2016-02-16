@@ -1,0 +1,120 @@
+body{
+	font-family: 'Roboto', Verdana;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin:0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a {
+	background: transparent;
+}
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color:white;
+	text-shadow:1px 1px 2px #bfbfbf;
+}
+nav a:hover{
+	color: #fff;
+}
+button {
+	width:150px ;
+	height:55px ;
+	background-color: #ffd11a;
+	font-size: 20px;
+	color: white;
+	text-shadow:1px 1px 2px #bfbfbf;
+	position: relative;
+	top: 60px
+}
+.suno{
+	height: 500px;
+}
+header, .suno{
+	background-color: #fced00;
+}
+.txt1{
+	text-align: center;
+	margin-top: 180px;
+	color: white;
+	text-shadow:2px 2px 4px #bfbfbf;
+}
+.sdos{
+	background-color: #d9d9d9;
+	padding: 60px;
+}
+.caja{
+	height: 460px;
+	width:390px ;
+	background-color: white;
+	padding:20px;
+	float: left;
+}
+.uno,.dos {
+	margin-left: 50%;
+}
+.in1{
+	height: 300px;
+	width: 300px;
+	background-color:#d9d9d9;
+	position: relative;
+	left: 25px; 
+	top:-5px;
+	padding-left:105px;
+	padding-top: 140px;
+	color: #595959;
+	font-family: Verdana;
+}
+h2{
+	font-size: 20px;
+}
+p{
+	font-size: 11px;
+	margin-top: 5px;
+}
+.bt1{
+	width: 115px;
+	height: 30px;
+	font-size: 15px;
+	position: relative;
+	left:120px;
+	top:10px;
+}
+.cej{
+	margin-top: 20px;
+}
+footer{
+	background-color: #404040;
+	font-size: 13px;
+	padding: 40px;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	border-right: 1px solid white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.skype{
+	width:17px;
+	height:17px;
+}
+.afoot{
+	text-decoration: none;
+	color: #99d6ff;
+}
